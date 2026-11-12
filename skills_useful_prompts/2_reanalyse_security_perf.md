@@ -1,0 +1,1 @@
+# après alignement du contenu du dossier supabase avec le backend supabase, je crois qu'on doit réviser l'audit de sécurité et de performance (se trouvant dans le dossier _bemba/inklm_audit_perf_sec) pour voir si ces problèmes persistent encore ou ils sont résolus avec cette synchronisation des infos locales (fichiers .sql)  sur laquelle s'est basé le premier audit. 
